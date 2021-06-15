@@ -1,0 +1,4 @@
+//<'CBRN_vanillaMortar.pbo' properties via Mikero's dos tools, dll version 7.97>
+prefix=CBRN_vanillaMortar;
+//PboType=Arma Addon;
+//</properties>
