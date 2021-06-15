@@ -1,4 +1,0 @@
-//<'CBRN_gear.pbo' properties via Mikero's dos tools, dll version 7.97>
-prefix=CBRN_gear;
-//PboType=Arma Addon;
-//</properties>
