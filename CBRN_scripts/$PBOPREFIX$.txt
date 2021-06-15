@@ -1,0 +1,4 @@
+//<'CBRN_scripts.pbo' properties via Mikero's dos tools, dll version 7.97>
+prefix=CBRN_scripts;
+//PboType=Arma Addon;
+//</properties>
